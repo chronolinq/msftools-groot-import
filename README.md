@@ -1,3 +1,6 @@
+# Archive Notice
+This is now archived as MSF Tools is obsolete
+
 # msftools-groot-import
 A Google Apps script to import data from the MSF Toolbot into the G.R.O.O.T. with one click
 
